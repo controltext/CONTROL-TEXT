@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "7e8d134324c30b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "1768c1c9c30854c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961c21208a5e3a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONTROL TEXT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONTROL TEXT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "969e51565a0681f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "757054935942bd5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "947b24c386b78ade",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "34efe977bccdce06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "75440f7831090224",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "efd29981f04c27df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "03f437a61632a096",
+    "type": "split",
+    "children": [
+      {
+        "id": "276be61e06c09d81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5991e048d17964aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d0cd5dd637a5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4ac66bfc899deceb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b3ce0a7c7dcdf62",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a9245bcec42c5df2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CONTROL TEXT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CONTROL TEXT"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "961c21208a5e3a05",
+  "lastOpenFiles": [
+    "CONTROL TEXT.md",
+    "CONTROL TEXT STATUS.md",
+    "05 SOURCE/THE SOURCE.md",
+    "05 SOURCE/33 CONTROL TEXT.md",
+    "05 SOURCE/SOURCE SYMBOLS/Reality.md",
+    "05 SOURCE/SOURCE SYMBOLS/Language.md",
+    "05 SOURCE/SOURCE SYMBOLS/Attention.md",
+    "05 SOURCE/SOURCE SYMBOLS/Information.md",
+    "05 SOURCE/SOURCE SYMBOLS/Power.md",
+    "05 SOURCE/SOURCE SYMBOLS/Emotion.md",
+    "05 SOURCE/SOURCE SYMBOLS/Narrative.md",
+    "05 SOURCE/SOURCE SYMBOLS/Identity.md",
+    "05 SOURCE/SOURCE SYMBOLS/Belief.md",
+    "02 LANGUAGE/LANGUAGE SYMBOLS/Meaning.md",
+    "04 SIMULATION/SIMULATION SYMBOLS/Myth.md",
+    "05 SOURCE/SOURCE SYMBOLS/Symbol.md",
+    "03 SIGNAL/20 ALGORITHMIC GOVERNANCE.md",
+    "04 SIMULATION/THE SIMULATION.md",
+    "04 SIMULATION/32 THE EGREGORE NETWORK.md",
+    "04 SIMULATION/SIMULATION SYMBOLS/Collective Memory.md",
+    "04 SIMULATION/SIMULATION SYMBOLS/Movement.md",
+    "04 SIMULATION/SIMULATION SYMBOLS/Nation.md",
+    "04 SIMULATION/SIMULATION SYMBOLS/Hive Mind.md",
+    "02 LANGUAGE/LANGUAGE SYMBOLS/Archetype.md",
+    "04 SIMULATION/SIMULATION SYMBOLS/Corporation.md",
+    "04 SIMULATION/SIMULATION SYMBOLS/Religion.md",
+    "Untitled.canvas",
+    "05 SOURCE/SOURCE SYMBOLS",
+    "04 SIMULATION/SIMULATION SYMBOLS",
+    "03 SIGNAL/SIGNAL SYMBOLS",
+    "02 LANGUAGE/LANGUAGE SYMBOLS",
+    "01 CONDITIONING/CONDITIONING SYMBOLS",
+    "05 SOURCE",
+    "04 SIMULATION",
+    "03 SIGNAL",
+    "02 LANGUAGE",
+    "01 CONDITIONING",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
